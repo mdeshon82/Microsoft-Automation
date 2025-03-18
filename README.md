@@ -26,14 +26,14 @@ Required modules and packages (specified in each script's documentation)
 Installation
 ### Clone the repository:
 
-git clone https://github.com/mdeshon82/microsoft-automation.git
-cd microsoft-automation-scripts
-Install required PowerShell modules:
+1. git clone https://github.com/mdeshon82/microsoft-automation.git
+2. cd microsoft-automation-scripts
+3. Install required PowerShell modules:
 
-Install-Module -Name ModuleName
-Install required Python packages:
+3.1 Install-Module -Name ModuleName
+3.2 Install required Python packages:
 
-pip install -r requirements.txt
+4. pip install -r requirements.txt
 ### Usage
 Each script comes with detailed usage instructions. Refer to the documentation within each script's folder for specific usage examples.
 
