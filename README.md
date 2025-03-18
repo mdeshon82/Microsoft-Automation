@@ -1,4 +1,4 @@
-Microsoft Automation Scripts
+#Microsoft Automation Scripts
 Welcome to the Microsoft Automation Scripts repository! This repository contains a collection of PowerShell and Python scripts designed to automate various tasks within Microsoft environments.
 
 Table of Contents
