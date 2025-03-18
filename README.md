@@ -1,4 +1,4 @@
-#Microsoft Automation Scripts
+Microsoft Automation Scripts
 Welcome to the Microsoft Automation Scripts repository! This repository contains a collection of PowerShell and Python scripts designed to automate various tasks within Microsoft environments.
 
 Table of Contents
@@ -26,7 +26,7 @@ Required modules and packages (specified in each script's documentation)
 Installation
 Clone the repository:
 
-git clone https://github.com/mdeshon82/Microsoft-Automation.git
+git clone https://github.com/mdeshon82/microsoft-automation.git
 cd microsoft-automation-scripts
 Install required PowerShell modules:
 
@@ -48,5 +48,3 @@ Contributions are welcome! Please read the contributing guidelines for more info
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize this template to better fit your specific scripts and requirements. If you need any more help, just let me know!
